@@ -1,0 +1,1 @@
+var isActive = 1;
